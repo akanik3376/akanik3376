@@ -1,22 +1,25 @@
-<img style="width: 100%;"  src="https://i.ibb.co/VpT0C9N/Neon-Futuristic-Gaming-Youtube-Banner.png?fbclid=IwAR0wvHJvHCT-sHVXvKbPCcjcXF4lCjJsZNaHBFet0VBaExrDsW1EfZUe91k" />
+<img style="width: 100%;"  src="https://raw.githubusercontent.com/akanik3376/akanik3376/246763c7e713c7acc707edf9269e3701bd801aec/img/development-with-abstract-background_1134-414.jpg" />
 
 ### Current Overview
 
 <h3 align="center">
-Welcome to rabby-web profile!
+Welcome to akanik3376 profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&width=380&lines=Front-End+Web+Developer;MERN+Stack+Developer;1%2B+years+of+coding+experience;Always+learning+new+things">
 </p>
-Hi, I am Zulkar Naeem Rabby.Front-end developer with a passion for React. Committed to continuous learning and mastering the art of crafting intuitive and beautiful user interfaces.
+Hi, I am Anik Ghosh.I am a Front-end enthusiast deeply passionate about React. Dedicated to perpetual learning and honing the skills of creating user interfaces that are both intuitive and aesthetically pleasing.
+
+
 
 - 🌱 I’m currently learning Next level web technologies
 - 👯 I’m looking to collaborate on opensource and group projects.
 
 
-Hello! I'm Zulkar Naeem Rabby, a dedicated Front-end developer with a flair for React. Committed to continuous learning, I'm currently exploring Next level web technologies. Open to collaborations on opensource and group projects, I am a passionate web developer with a love for clean and efficient code. Armed with a strong foundation in various programming frameworks, I'm always eager to expand my knowledge and explore new technologies. With a keen eye for detail and a dedication to delivering high-quality web solutions, I am driven to make a positive impact in the world of technology. Connect with me on GitHub to stay updated on my latest activities.
+
+Passionate web developer who loves writing clean and efficient code. I know various programming frameworks and am always excited to learn and explore new technologies. I pay close attention to detail and am dedicated to delivering high-quality web solutions, aiming to make a positive impact in the tech world. Connect with me on GitHub to see what I'm up to!
 
 ### Connect With Me
 
