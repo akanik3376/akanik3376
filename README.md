@@ -12,7 +12,7 @@ Welcome to akanik3376 profile!
 </p>
 Hi, I am Anik Ghosh.I am a Front-end enthusiast deeply passionate about React. Dedicated to perpetual learning and honing the skills of creating user interfaces that are both intuitive and aesthetically pleasing.
 
-
+<br>
 
 - 🌱 I’m currently learning Next level web technologies
 - 👯 I’m looking to collaborate on opensource and group projects.
@@ -25,7 +25,7 @@ Passionate web developer who loves writing clean and efficient code. I know vari
 
 *Email*: [ridoygh51@gmail.com](mailto:ridoygh51@gmail.com)
 
-<!-- [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/rabby-web/) -->
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/anik-ghosh-15a389299/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/Anik3376)
 <!-- [![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)](https://twitter.com/zulka7060) -->
 
